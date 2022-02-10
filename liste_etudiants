@@ -1,0 +1,72 @@
+{
+  "etudiants": [
+    {
+      "adresse": "florentyovo0@gmail.com", 
+      "id": 1, 
+      "nom": "YOVO", 
+      "prenom": "Yawo Emmanuel"
+    }, 
+    {
+      "adresse": "emmanuelyovo649@gmail.com", 
+      "id": 2, 
+      "nom": "Emmanuel", 
+      "prenom": "M@nU_LP"
+    }, 
+    {
+      "adresse": "achille-djakpo@gmail.com", 
+      "id": 3, 
+      "nom": "Djakpo", 
+      "prenom": "Achille Godwin"
+    }, 
+    {
+      "adresse": "doniafioklou3@gmail.com", 
+      "id": 4, 
+      "nom": "Fioklou", 
+      "prenom": "Donia"
+    }, 
+    {
+      "adresse": "gboma@bertrand@gmail.com", 
+      "id": 5, 
+      "nom": "Anani-Klimkpe", 
+      "prenom": " "
+    }, 
+    {
+      "adresse": "toure.mahdiya@gmail.com", 
+      "id": 6, 
+      "nom": "Coubageat-Toure", 
+      "prenom": "Mahdiya"
+    }, 
+    {
+      "adresse": "sergikuis.Afi.Ts\u00e9vi\u00e9", 
+      "id": 7, 
+      "nom": "Adzrakou", 
+      "prenom": "Serguis"
+    }, 
+    {
+      "adresse": "sergikuis.Afi.Ts\u00e9vi\u00e9", 
+      "id": 8, 
+      "nom": "google", 
+      "prenom": "koffi"
+    }, 
+    {
+      "adresse": "sergikuis.Afi.Ts\u00e9vi\u00e9", 
+      "id": 9, 
+      "nom": "google", 
+      "prenom": "koffi"
+    }, 
+    {
+      "adresse": "pc.jene", 
+      "id": 10, 
+      "nom": "LEJEUNE", 
+      "prenom": "PC"
+    }, 
+    {
+      "adresse": "", 
+      "id": 11, 
+      "nom": "tets", 
+      "prenom": "redirection"
+    }
+  ], 
+  "success": true, 
+  "total etudiants": 11
+}
